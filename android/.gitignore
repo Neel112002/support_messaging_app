@@ -1,0 +1,17 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+.gradle/
+*.iml
+local.properties
+
+# iOS
+Pods/
+
+# VSCode/JetBrains
+.idea/
+.vscode/
